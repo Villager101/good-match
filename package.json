@@ -1,0 +1,14 @@
+{
+  "name": "tennispartners",
+  "version": "1.0.0",
+  "description": "Check partnership combinations and the strength of the partnership",
+  "main": "match.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Takudzwa Madzande",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.16.3"
+  }
+}
